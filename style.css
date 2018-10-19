@@ -21,8 +21,9 @@ body {
     height: 600px;
     display: flex;
     flex-flow: row wrap;/*flex-direction flex-wrap */
-    align-items: flex-start;
-    justify-content: flex-end;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
  
 }
 
