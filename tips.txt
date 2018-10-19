@@ -1,0 +1,50 @@
+More Information
+--https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+
+flex        :       default
+inline-flex :       sticky inline
+
+--flex-start | center | flex-end
+
+flex-flow: row nowrap; 
+--sticky wrap   
+
+flex-flow: row wrap;
+--compress arrange
+
+flex-flow: row wrap-reverse;
+--compress reverse/ going up
+
+flex-flow: column wrap;
+--1 column wrap
+
+flex-flow: row-reverse wrap;
+--row revers
+
+flex-flow: column-reverse wrap;
+--
+
+flex-direction: row;
+--main axis
+
+flex-direction: row-reverse;
+--main axis reverse
+
+flex-direction: column;
+--cross axis
+
+flex-direction: column-reverse;
+--cross axis reverse
+
+align-items: stretch;
+--stretch
+
+align-items: center;
+ --center
+
+align-items: flex-start;
+--flex start
+
+justify-content: flex-end;
+--end
+ 
